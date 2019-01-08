@@ -1,3 +1,15 @@
-p {
-  background-color: red;
+* {
+  color: darkred;
+}
+
+li {
+  color: orchid;
+}
+
+.paaotsikko {
+  color: blue;
+}
+
+#jatkuu {
+  color: red;
 }
