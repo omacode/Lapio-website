@@ -1,15 +1,25 @@
-* {
-  color: darkred;
+body {
+  margin: 0 auto;
+  max-width: 50em;
+  font-family: 'Helvetica', 'Arial', sans-serif;
+  line-height: 1.5;
+  padding: 4em 1em;
+  color: #555;
+  background-color: honeydew;
 }
 
-li {
-  color: orchid;
+h1, h2, h3 {
+  margin-top: 1em;
+  padding-top: 1em;
+  color: #333;
 }
 
-.paaotsikko {
-  color: blue;
+ul {
+  margin-left: 1em;
+  padding-bottom: 1em;
+  color: sienna;
 }
 
-#jatkuu {
-  color: red;
+img {
+  border: 1px solid sienna;
 }
